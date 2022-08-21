@@ -5,7 +5,6 @@
 ▶️ I love creating new things <br>
 ▶️ I am currently learning Node.js <br>
 ▶️ I relish working with Javascript <br>
-▶️ Adaptable, team-oriented. <br>
 ▶️ Actively looking for a Job. <br>
 
 ### Languages and Tools:
