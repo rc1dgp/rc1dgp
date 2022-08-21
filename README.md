@@ -1,4 +1,4 @@
-# Hey there, I'm Ritika
+# <align="center">Hey there, I'm Ritika
 
 ## Frontend React Web Developer
 
