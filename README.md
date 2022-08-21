@@ -27,8 +27,8 @@
 
 <br />
 ---
-<summary>:zap: GitHub Stats</summary>
+<summary align="center">:zap: GitHub Stats</summary>
 
-  <img align="center" alt="Ritika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rc1dgp&show_icons=true&hide_border=false&title_color=01D1AE&icon_color=fbb20e&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Ritika's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rc1dgp&show_icons=true&hide_border=false&title_color=01D1AE&icon_color=fbb20e&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
