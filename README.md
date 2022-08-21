@@ -1,4 +1,4 @@
-#{style:align-center}  Hey there, I'm Ritika
+<h1 style=align-center>Hey there, I'm Ritika </h1>
 
 ## Frontend React Web Developer
 
