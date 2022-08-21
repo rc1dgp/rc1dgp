@@ -1,4 +1,4 @@
-<h1 style=align-center>Hey there, I'm Ritika </h1>
+# Hey there, I'm Ritika
 
 ## Frontend React Web Developer
 
